@@ -1,7 +1,8 @@
 ---
-title: "Deel_learning_note"
+title: "Deep_learning_note"
 date: 2019-03-10T05:22:22+08:00
-draft: false
+Categories: AI
+Tags: AI
 ---
 
 深度学习笔记
