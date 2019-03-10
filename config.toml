@@ -1,4 +1,4 @@
 baseURL = "http://www.zhyuntao.com"
-languageCode = "en-us"
+languageCode = "zh-CN"
 title = "张云涛的个人博客"
 theme = "ananke"
