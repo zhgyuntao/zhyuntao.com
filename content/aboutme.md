@@ -1,7 +1,7 @@
 ---
 title: "个人简介"
 date: 2019-03-10T18:52:37+08:00
-draft: true
+# draft: true
 ---
 
 姓名：张云涛
