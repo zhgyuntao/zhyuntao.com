@@ -1,7 +1,7 @@
 ---
 title: "开始——我的博客"
 date: 2019-03-10T18:47:10+08:00
-# draft: true
+draft: false
 ---
 
 写在建站开始
