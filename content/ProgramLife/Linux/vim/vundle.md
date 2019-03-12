@@ -1,7 +1,7 @@
 ---
 title: "Vundle 安装与配置"
 date: 2019-03-12T21:32:11+08:00
-draft: false
+# draft: false
 ---
 
 ## 一、安装方式
